@@ -4,7 +4,7 @@ My name is Reem Khalil I'm 22 years old , I Studied Diploma Civil Engineer at LT
 # Table of content  
 
 ## Code102 Reading Notes  
- 1. [Growthmindset](https://reemkhalil18499.github.io/Reading-Note/102/Growthmind)
+ 1. [Growthmindset](https://reemkhalil18499.github.io/Reading-Note/102/Growthmindset)
 2. [Read01](https://reemkhalil18499.github.io/Reading-Note/102/read01)
 3. [Read02](https://reemkhalil18499.github.io/Reading-Note/102/read02)
 4. [Read03](https://reemkhalil18499.github.io/Reading-Note/102/read03)
@@ -16,7 +16,7 @@ My name is Reem Khalil I'm 22 years old , I Studied Diploma Civil Engineer at LT
 ## Code201 Reading Notes  
 1. [Class01](https://reemkhalil18499.github.io/Reading-Note/201/Class01)
 
-2. [class02](https://reemkhalil18499.github.io/Reading-Note/201/class02)
+2. [Class02](https://reemkhalil18499.github.io/Reading-Note/201/class02)
 
 
 
