@@ -16,7 +16,7 @@ My name is Reem Khalil I'm 22 years old , I Studied Diploma Civil Engineer at LT
 ## Code201 Reading Notes  
 1. [Class01](https://reemkhalil18499.github.io/Reading-Note/201/Class01)
 
-2. [class02]((https://reemkhalil18499.github.io/Reading-Note/201/class02))
+2. [class02](https://reemkhalil18499.github.io/Reading-Note/201/class02)
 
 
 
