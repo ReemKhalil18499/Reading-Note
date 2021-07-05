@@ -29,7 +29,7 @@ Explanation of the different parts:
 + Border - A border that goes around the padding and content  
 + Margin - Clears an area outside the border. The margin is transparent  
 
-The box model allows us to add a border around elements, and to define space between elements. 
+The box model allows us to add a border around elements, and to define space between elements.  
 
 
 # js interactive box  
