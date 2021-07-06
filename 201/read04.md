@@ -61,4 +61,10 @@ Do Not Declare Strings, Numbers, and Booleans as Objects!
  ![Objects](https://slideplayer.com/slide/17811123/106/images/81/Objects+Do+Not+Declare+Strings%2C+Numbers%2C+and+Booleans+as+Objects%21.jpg)  
 
 
-
+# 6 Reasons for Pair Programming  
+ 1. Greater efficiency. It is a common misconception that pair programming takes a lot longer and is less efficient.  
+ 2. Engaged collaboration.  
+ 3. Learning from fellow students.   
+ 4. Social skills.  
+ 5. Job interview readiness.  
+ 6. Work environment readiness.
