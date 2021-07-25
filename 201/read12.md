@@ -1,6 +1,6 @@
 # The canvas element  
 ### What is HTML Canvas?  
-The <canvas> element is only a container for graphics. You must use JavaScript to actually draw the graphics.  
+The canvas element is only a container for graphics. You must use JavaScript to actually draw the graphics.  
 Canvas has several methods for drawing paths, boxes, circles, text, and adding images.  
 
 ![canvas](https://flaviocopes.com/canvas/Screen%20Shot%202018-10-28%20at%2009.23.43.png)  
